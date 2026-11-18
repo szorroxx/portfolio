@@ -2,7 +2,7 @@
 
 A starter repo for building and validating a personal portfolio webpage.
 
-<!-- Optional (extension B): add your workflow status badge here -->
+[![Portfolio Pipeline](https://github.com/szorroxx/portfolio/actions/workflows/pipeline.yml/badge.svg)](https://github.com/szorroxx/portfolio/actions/workflows/pipeline.yml)
 
 ## Structure
 
